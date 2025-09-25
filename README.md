@@ -1,4 +1,4 @@
-# Disease Symptoms and Treatments Analysis – Power BI Project
+# Healthcare Disease Analysis – Power BI
 
 ## 📌 Project Overview
 
